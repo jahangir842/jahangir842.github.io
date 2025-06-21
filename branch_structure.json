@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/jahangir",
+    "main",
+    "origin",
+    "rabbia"
+  ],
+  "parent": {
+    "feat/jahangir": "main",
+    "main": null,
+    "origin": "main",
+    "rabbia": "main"
+  },
+  "order": [
+    "main",
+    "feat/jahangir",
+    "origin",
+    "rabbia"
+  ]
+}
